@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Luiz (@luiznbastos)
-- 👀 I’m interested in Data Science, Business Analytics, Entrepreneurship
+- 👀 I’m interested in Data Science, Data Engineering, Analytics Engineering, Business Analytics, Entrepreneurship
 - 🌱 I’m currently learning Machine Learning, Data Engineering, IoT, Finance
 - 📫 How to reach me luizanbastos@gmail.com
